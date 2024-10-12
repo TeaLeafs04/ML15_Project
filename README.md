@@ -2,8 +2,8 @@
 
 ## **Introduction**
 This repository contains the codebase for our mini-project. For detailed instructions regarding the project requirements and video presentation guidelines, please refer to the following files:
-- [Project Requirements](./project_spec.md)
-- [Video Presentation Guidelines](./video_present.md)
+- [Project Requirements](./proj_req.md)
+- [Video Presentation Guidelines](./video_req.md)
 
 ## **Project Overview**
 (Briefly describe the problem you're solving, the dataset used, and the general approach taken.)

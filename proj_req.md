@@ -11,14 +11,14 @@
 1. **Video Presentation** (MP4 format only)
 2. **GitHub Repository URL** with the full codebase
 
-For details on how to structure the video, see the [Video Presentation Guidelines](./video_present.md).
+For details on how to structure the video, see the [Video Presentation Guidelines](./video_req.md).
 
 ---
 
 ### Video Presentation:
 - Submit a single MP4 file, named with your Lab Group and team members' last names for unique identification.
 - Start the video by clearly displaying your Lab Group and the names of each team member.
-- Follow the structure and flow provided in the ["Video Presentation Guidelines"](./video_present.md).
+- Follow the structure and flow provided in the ["Video Presentation Guidelines"](./video_req.md).
 - No need to mention individual contributions or references in the video (these can go in the GitHub repository).
 
 ---
