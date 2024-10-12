@@ -67,5 +67,5 @@ This repository contains the codebase for our mini-project. For detailed instruc
    ```
 
 ## **For More Information**
-- For detailed project requirements, please refer to the \[Project Requirements\](./project_spec.md).
-- For video presentation guidelines, please refer to the \[Video Presentation Guidelines\](./video_present.md).
+- For detailed project requirements, please refer to the [Project Requirements](./proj_req.md).
+- For video presentation guidelines, please refer to the [Video Presentation Guidelines](./video_req.md).
