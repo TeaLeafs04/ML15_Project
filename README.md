@@ -75,7 +75,7 @@ The dataset underwent the following steps for preparation:
   - Incorporated proximity to key landmarks, such as tourist attractions, parks, and other points of interest.
   - Engineered features:
     - `landmarks_within_500m`, `landmarks_within_1000m`, `landmarks_within_2000m`: Counts of landmarks within specified radii.
-    - `shortest_distance_to_landmark`: Minimum distance to the nearest landmark.
+    - `avg_distance_to_landmark`: Average distance to the all landmark within the same city.
   - Objective: To capture the influence of tourist appeal and urban centrality on Airbnb pricing.
 
 ---
