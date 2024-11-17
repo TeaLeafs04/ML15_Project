@@ -161,6 +161,14 @@ This project demonstrated the importance of both property-specific features and 
    - **Washington, D.C. Historic Landmarks**: [List of National Historic Landmarks in Washington, D.C.](https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_Washington,_D.C)
    - **Boston Historic Landmarks**: [List of National Historic Landmarks in Boston](https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_Boston)
 
+3. **Metro Data sources**
+   - **San Francisco Metro Stations**: [Metro stations in KML format](https://www.bart.gov/schedules/developers/geo)
+   - **Chicago Metro Stations**: [Metro stations in KML format](https://data.cityofchicago.org/dataset/CTA-L-Rail-Stations-kml/4qtv-9w43/about_data)
+   - **Los Angeles Metro Stations**: [Metro stations](https://egis-lacounty.hub.arcgis.com/datasets/lacounty::metro-stations/about)
+   - **New York City Metro Stations**: [Metro stations](https://data.ny.gov/widgets/i9wp-a4ja)
+   - **Washington DC Metro Stations**: [Metro stations](https://opendata.dc.gov/datasets/DCGIS::metro-stations-regional/about)
+   - **Boston Metro Stations**: [Metro stations](https://www.mass.gov/info-details/massgis-data-mbta-rapid-transit#downloads-)
+
 ### **Libraries and Tools**
 3. **Python Libraries**:
    - [scikit-learn](https://scikit-learn.org/stable/): For machine learning and model evaluation.
