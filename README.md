@@ -93,8 +93,9 @@ The dataset underwent the following steps for preparation:
 ## **[Machine Learning Solution](./ML_Solution.ipynb)**
 1. **Models Implemented**:
    - **Linear Regression**: Baseline model for price prediction.
-   - **XGBoost Regressor**: Utilized gradient boosting to handle non-linear relationships and feature interactions.
+   - **Decision Tree Regressor**: Captured non-linear relationships between features and price effectively.
    - **Random Forest Regressor**: Captured non-linear relationships between features and price effectively.
+   - **XGBoost Regressor**: Utilized gradient boosting to handle non-linear relationships and feature interactions.
 
 2. **Metrics**:
    - **Regression Models**: 
@@ -138,6 +139,7 @@ This project demonstrated the importance of both property-specific features and 
 
 - **Member 2: Low Kan Yui**:  
   - Contributed Feature Engineering: Landmarks
+  - Contributed to ML solution
   - Contributed to github and slides
 
 - **Member 3: Natanael Tan Tiong Oon**:  
